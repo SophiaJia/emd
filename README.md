@@ -16,6 +16,7 @@ Installation
     # pip install scipy
     pip install -e git+https://github.com/SophiaJia/httpie.git#egg=py3emd
 
+
 or by running the setup file manually
 
     git clone [the url for pyemd]
