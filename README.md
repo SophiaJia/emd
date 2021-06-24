@@ -14,7 +14,7 @@ Installation
     # If needed:
     # pip install numpy
     # pip install scipy
-    pip install -e git+https://github.com/garydoranjr/pyemd.git#egg=pyemd
+    pip install -e git+https://github.com/SophiaJia/httpie.git#egg=py3emd
 
 or by running the setup file manually
 
